@@ -359,8 +359,8 @@ MCNP_regexes[(50, (0, 109, 190))] = (r'xs[0-9]+', 0)
 MCNP_regexes[(51, (0, 109, 190))] = (r'XS[0-9]+', 0)
 
 # Grays out lines that start with c is followed by whitespace - return match 0
-MCNP_regexes[(48, (153, 153, 153))] = (r'c\h+.*', 0)
-MCNP_regexes[(49, (153, 153, 153))] = (r'C\h+.*', 0)
+MCNP_regexes[(48, (153, 153, 153))] = (r'\nc\h+.*', 0)
+MCNP_regexes[(49, (153, 153, 153))] = (r'\nC\h+.*', 0)
 
 
 # There is no standardization in defining the style IDs of lexers attributes,
