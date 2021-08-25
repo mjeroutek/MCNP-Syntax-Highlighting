@@ -7,7 +7,7 @@ move it to the following location:
 
 "\Users\<username>\AppData\Roaming\Notepad++\userDefineLangs"
 
-(NOTE: If you are having trouble locating the AppData folder on a Windows computer, 
+(NOTE: If you are having trouble locating the AppData folder on your Windows machine, 
  try typing %AppData% in the search bar at the bottom-left corner of your screen.)
 
 If you have not used a UDL before, then all you should see in the userDefineLangs folder
