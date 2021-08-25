@@ -1,4 +1,4 @@
-MCNP_Formatting_v1.4.xml
+MCNP Syntax Highlighting
 ========================
 
 This is the latest iteration of the MCNP Notepad++ User-Defined Language (as of 6/16/2021).
