@@ -1,7 +1,7 @@
 MCNP Syntax Highlighting
 ========================
 
-This is the latest iteration of the MCNP Notepad++ User-Defined Language (as of 6/16/2021).
+This is the latest iteration of the MCNP Notepad++ User-Defined Language (as of 10/28/2022).
 To apply this to your copy of Notepad++ (NPP), download MCNP_Formatting_v1.4.xml and 
 move it to the following location:
 
