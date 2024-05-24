@@ -2,7 +2,7 @@ MCNP Syntax Highlighting
 ========================
 
 This is the latest iteration of the MCNP Notepad++ User-Defined Language (as of 10/28/2022).
-To apply this to your copy of Notepad++ (NPP), download MCNP_Formatting_v1.4.xml and 
+To apply this to your copy of Notepad++ (NPP), download MCNP_Formatting_v1.5.xml and 
 move it to the following location:
 
 "\Users\<username>\AppData\Roaming\Notepad++\userDefineLangs"
@@ -11,7 +11,7 @@ move it to the following location:
  try typing %AppData% in the search bar at the bottom-left corner of your screen.)
 
 If you have not used a UDL before, then all you should see in the userDefineLangs folder
-is a file called "markdown._preinstalled.udl". Once MCNP_Formatting_v1.4.xml is in this
+is a file called "markdown._preinstalled.udl". Once MCNP_Formatting_v1.5.xml is in this
 folder, it should appear in NPP near the bottom of the Language tab as "MCNP".
 
 
